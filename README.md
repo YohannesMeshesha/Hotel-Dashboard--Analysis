@@ -7,7 +7,7 @@ Data analysis plays a vital role in the hotel industry. Understanding hotel perf
 Data Extraction and Transformation:
 The Hotel dashboard data is extracted from an Excel file containing information on room bookings, cancellations, and revenue. The data undergoes several transformations to clean and prepare it for analysis, such as removing null values and duplicates. Additionally, a new calendar table is created to support time-based analysis, which categorizes dates by month, year, and day of the week.
 
-![Dash](https://user-images.githubusercontent.com/131899006/236867459-59e12b1c-f2b5-4b9d-996a-6d56bd3d0545.png)
+![8](https://user-images.githubusercontent.com/131899006/236869831-09cce68e-78e7-4ea9-911f-69071e632a5b.png)
 
 
 KPI Card:
